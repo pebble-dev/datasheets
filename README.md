@@ -12,11 +12,11 @@ Notes: Pebble uses the wafer-level chip package
 ### J-Display LPM014T262C
 http://www.j-display.com/english/product/wearable.html
 
-Suppliers: None found so far
+Suppliers: None found so far 
 Notes: The one used by Pebble has the same dimensions but has some dead areas where this one has the full area active
 
 ### Lattice iCE40-LP1K
-FPGA in WLCSP16 Package.
+FPGA in WLCSP16 Package. 
 Used as display driver in the Pebble.
 
 There is an open source toolchain & synth for this FPGA!
@@ -28,7 +28,7 @@ Digital MEMS microphone.
 Three-Axis, Digital Magnetometer
 
 ### Texas Instruments DRV2603
-Haptic Drive With Auto-Resonance Detection for Linear Resonance Actuators
+Haptic Drive With Auto-Resonance Detection for Linear Resonance Actuators 
 http://www.ti.com/product/drv2603
 
 ### Maxim MAX14690EWX

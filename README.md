@@ -33,8 +33,8 @@ http://www.ti.com/product/drv2603
 Haptic Drive With Auto-Resonance Detection for Linear Resonance Actuators
 
 ### Maxim MAX14690EWX
+https://www.maximintegrated.com/en/products/power/battery-management/MAX14690.html
 Wearable Charge-Management Solution  
-FULL DATASHEET UNDER NDA -> reverse engineering of I2C interface is required
 
 ### Bosch BMI160
 https://www.bosch-sensortec.com/bst/products/all_products/bmi160/  

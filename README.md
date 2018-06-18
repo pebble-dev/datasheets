@@ -18,7 +18,7 @@ FPGA in WLCSP16 Package.
 Used as display driver in the Pebble.  
 There is an open source toolchain & synth for this FPGA!
 
-### Texas Intrusments CC2564B
+### Texas Instruments CC2564B
 http://www.ti.com/product/CC2564  
 Dual mode Bluetooth controller
 

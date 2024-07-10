@@ -47,3 +47,7 @@ low dropout linear 3.3V regulator
 ### Cypress Spansion S29VS128R
 http://www.cypress.com/file/218866/download  
 16MB 1.8V 16-bit multiplexed parallel flash
+
+### Panasonic EVP-AVAA1A
+https://www.mouser.com/datasheet/2/315/PANAS44867_1-2560594.pdf
+2.8mm x 2.3mm Side-operational Edge Mount Light Touch Switches

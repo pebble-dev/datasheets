@@ -51,3 +51,6 @@ http://www.cypress.com/file/218866/download
 ### Panasonic EVP-AVAA1A
 https://www.mouser.com/datasheet/2/315/PANAS44867_1-2560594.pdf  
 2.8mm x 2.3mm Side-operational Edge Mount Light Touch Switches
+
+### Screws
+Main PCB is held down with M1.2 screws with a length of about 3mm.
